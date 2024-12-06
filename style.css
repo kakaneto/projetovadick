@@ -1,4 +1,3 @@
-/* Reset Básico */
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +17,6 @@ body {
     margin: 0 auto;
 }
 
-/* Header */
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('julia.jpeg') no-repeat center center/cover;
 
@@ -57,7 +55,6 @@ body {
     background: #444;
 }
 
-/* Seções */
 section {
     padding: 4rem 0;
 }
@@ -78,7 +75,6 @@ p {
     color: #ccc;
 }
 
-/* Serviços */
 .service-list {
     display: flex;
     flex-wrap: wrap;
@@ -100,7 +96,6 @@ p {
     color: #fff;
 }
 
-/* Contato */
 form {
     max-width: 600px;
     margin: 0 auto;
@@ -131,7 +126,6 @@ form button:hover {
     background: #444;
 }
 
-/* Footer */
 .footer {
     background: #000;
     color: #fff;
